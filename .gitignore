@@ -1,0 +1,9 @@
+
+*.mat
+*.l
+*.slx.r*
+slprj/
+*.bag
+
+__pycache__/
+venv/
