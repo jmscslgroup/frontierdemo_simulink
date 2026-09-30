@@ -7,3 +7,10 @@ slprj/
 
 __pycache__/
 venv/
+.vscode
+
+src/*
+
+*.mat
+
+frontierdemo_ert_rtw/*
